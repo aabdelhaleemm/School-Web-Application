@@ -1,0 +1,75 @@
+body {
+  direction:rtl;
+}
+
+.app{
+  font-family: 'Cairo', sans-serif;
+  text-align: right;
+}
+
+.form-st{
+  text-align: right;
+  direction:rtl;
+  font-family: 'Changa', sans-serif;
+  font-size: 1.5rem;
+  margin: 10% 15% 8% 15%;
+  padding: 7%;
+  border:10px red;
+
+}
+
+.landing{
+  background-image: url('back.png');
+  height: 92.6vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  padding-top: 10%;
+}
+.h1{
+ font-size:1rem;
+}
+
+.headfont{
+  font-family: 'Cairo', sans-serif;
+}
+
+.link, .link:hover, .link:focus, .link:active {
+  text-decoration: none;
+  color: inherit;
+}
+.cent{
+  text-align: center;
+}
+.mr-autoo, .mx-autoo {
+  margin-left: auto!important;
+  margin-right: 20px;
+}
+
+.carousel{
+  padding: 20%;
+
+}
+.admincards{
+  padding-top: 5rem;
+  text-align: center;
+  font-family: 'Changa', sans-serif;
+}
+.cardcol{
+  padding-top: 1.5rem;
+}
+.studentrow{
+  padding-top: 2rem;
+  text-align: right;
+  max-width: 100%;
+}
+
+.contact{
+  padding: 5% 10% 5% 10%;
+}
+
